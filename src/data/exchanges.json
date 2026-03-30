@@ -590,6 +590,17 @@
           "cnt": true
         }
       ]
+    },
+    "Turkey": {
+      "regions": [],
+      "exchanges": [
+        {
+          "name": "Paribu",
+          "link": "https://www.paribu.com",
+          "ada": true,
+          "cnt": false
+        }
+      ]
     }
   }
 }
